@@ -1,0 +1,26 @@
+.config-controller-container {
+  background-color: #475569;
+  height: 30vh;
+  padding-left: 50px;
+  padding-top: 30px;
+}
+
+.layout-heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 34px;
+  color: #ffffff;
+}
+.input-container {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.label-element {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 13px;
+  color: #ffffff;
+  margin-left: 5px;
+}
